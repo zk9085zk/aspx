@@ -1,0 +1,78 @@
+    
+
+
+.lv3_item {
+            display: block;
+            overflow: hidden;
+            float: left;
+            width: 260px;
+            margin-right:50px;
+            margin-bottom: 10px;
+        //    border-style:solid;
+          //  border-width:2px;
+          //  border-color:#cccccc;
+         
+        }
+
+        .pd_price {
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 10px;
+            font-size: 13px;
+            color: #212121;
+            font-style: italic;
+        }
+
+        .pd_hlight {
+            font-size: 24px;
+            color: #ff3c00;
+            font-weight: bold;
+            margin-left:10px;
+        }
+
+            .pd_hlight:before {
+                content: "$";
+                font-size: 14px;
+                margin-right: 2px;
+            }
+
+        .pd_name {
+            display: block;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 18px;
+            font-size: 14px;
+            line-height: 18px;
+            height: 36px;
+            overflow: hidden;
+            color:black;
+        }
+
+        .lv3_block_event_btn {
+            display: block;
+            width: 218px;
+            margin-left: 10px;
+            margin-right: 10px;
+            margin-bottom: 8px;
+            height: 24px;
+            line-height: 24px;
+            font-size: 14px;
+            color: #e45d2d;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .container2 {
+            width: 250px;
+            height: 230px;
+            text-align:center;
+            margin-top: 10px;
+            padding-left: 0px;
+           
+        }
+        .TEST
+        {
+           
+            margin-left:10%;
+          
+        }
